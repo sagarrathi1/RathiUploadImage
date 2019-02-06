@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "272029451531",
+    "firebase_url": "https://rathi-c9b1b.firebaseio.com",
+    "project_id": "rathi-c9b1b",
+    "storage_bucket": "rathi-c9b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272029451531:android:06e71d4f1f01fab4",
+        "android_client_info": {
+          "package_name": "com.example.sagar.rathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272029451531-at1gdk8mr32bjl3cdfutu5nd9l8jkiof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagar.rathi",
+            "certificate_hash": "3eeaeed78d9f497943fbc883b6b60a4faa6b61fa"
+          }
+        },
+        {
+          "client_id": "272029451531-g07vjkgv09k78oapu82hl68j6v5vn991.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagar.rathi",
+            "certificate_hash": "f505f73a8aca796c53c6865c4706306b44e5153e"
+          }
+        },
+        {
+          "client_id": "272029451531-83oorvsjf8ndbe5t4hguvmclggv763ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGguiRwE2TxhsgjPB0K9UF-9cZN2Vsns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272029451531-83oorvsjf8ndbe5t4hguvmclggv763ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272029451531:android:428ebc34c938070c",
+        "android_client_info": {
+          "package_name": "com.lakhan.rathiuploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272029451531-qp15calioosa4jqesmd4f3hbpiba02fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakhan.rathiuploadimage",
+            "certificate_hash": "f505f73a8aca796c53c6865c4706306b44e5153e"
+          }
+        },
+        {
+          "client_id": "272029451531-83oorvsjf8ndbe5t4hguvmclggv763ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGguiRwE2TxhsgjPB0K9UF-9cZN2Vsns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272029451531-83oorvsjf8ndbe5t4hguvmclggv763ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
